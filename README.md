@@ -1,5 +1,8 @@
 # UE5_VR_Boxing
 
+## 0. Device name
+Meata Oculus Quest 2 
+
 ## 1. Setup required SDK, NDK, JDK sample
 C:/Users/[UserName]/AppData/Local/Android/Sdk
 C:/Users/[UserName]/AppData/Local/Android/Sdk/ndk/25.2.9519653
