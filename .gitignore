@@ -98,5 +98,4 @@ Content/*/AssetMetaData.db
 !Source/
 !*.uproject
 !*.ini
-VRProject_Demo_5_1/Content/GymEAP/Levels/L_GYM_BuiltData.uasset
-*_BuiltData.uasset
+
