@@ -31,8 +31,9 @@ https://github.com/IsaacLSK/UE5_VR_Boxing
 - Using Meta Quest 2:
 	- Left controller's Thumbstick to control moving
 	- Left controller's Thumbstick Button to control jumping
+	- Right controller's Thumbstick to controls camera's direction
 	- Right controller's B Press to open menu
-	- Right controller's Thumbstick to select menu items
+	- When menu is opened, Right controller's Thumbstick to select menu items
 	
 # Key Project Structure
 
