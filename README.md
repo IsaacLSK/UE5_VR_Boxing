@@ -18,6 +18,9 @@ https://github.com/IsaacLSK/UE5_VR_Boxing
 - Unreal Engine 5.1.1
 - Meta Quest 2
 - Android Studio (Project APK deployment requires)
+- Quest 2 Install MetaXR Plugin to UE5
+	- https://developers.meta.com/horizon/downloads/package/unreal-engine-5-integration/54.0
+	- place it in C:\Program Files\Epic Games\UE_5.1\Engine\Plugins\Marketplace\MetaXR
 
 ## Project Setup - Android SDK (Project APK deployment requires)
 - SDK -> C:/Users/[UserName]/AppData/Local/Android/Sdk
